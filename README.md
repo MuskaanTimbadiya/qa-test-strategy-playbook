@@ -1,0 +1,1 @@
+# qa-test-strategy-playbook
