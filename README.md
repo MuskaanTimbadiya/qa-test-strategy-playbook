@@ -36,6 +36,7 @@ This repository demonstrates how structured QA thinking helps teams deliver high
 ---
 
 ## 🔺 Automation Pyramid Approach
+![Test Automation Pyramid](/test-automation-pyramid.png)
 
 ```
         🔺 UI Tests (Few)
