@@ -38,12 +38,6 @@ This repository demonstrates how structured QA thinking helps teams deliver high
 ## 🔺 Automation Pyramid Approach
 ![Test Automation Pyramid](/test-automation-pyramid.png)
 
-```
-        🔺 UI Tests (Few)
-       🔺🔺 API Tests (More)
-      🔺🔺🔺 Unit Tests (Most)
-```
-
 **Goal:** Maintain faster feedback cycles by prioritizing API and service-level automation over heavy UI tests.
 
 ---
